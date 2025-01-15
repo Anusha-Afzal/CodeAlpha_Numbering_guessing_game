@@ -1,4 +1,4 @@
-# CodeAlpha_Numbering_guessing_game 
+# Numbering_guessing_game 
 This project was created as part of the **CodeAlpha Program**, designed to help students and professionals build their programming skills through hands-on projects.A fun and simple number guessing game where the computer generates a random number, and the player has to guess it.
 
 ## Features
